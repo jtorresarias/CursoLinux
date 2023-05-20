@@ -1,0 +1,15 @@
+cd .. directorio anterior
+cd - posición anterior
+pwd saber nuestra ubicación
+cat, touch, vim, nano
+mv mover archivos. nombre del archivo. ruta absoluta.
+cd / raiz
+cd ~
+
+$ usuario estandar sudo -i(para instalaciones)
+# usuario root (su)
+
+r read
+w write
+x excute
+ls -l permisos fecha de cracion y usuario=
