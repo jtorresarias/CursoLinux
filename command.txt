@@ -9,7 +9,29 @@ cd ~
 $ usuario estandar sudo -i(para instalaciones)
 # usuario root (su)
 
+chmod comando para cambiar permisos.
 r read
 w write
 x excute
 ls -l permisos fecha de cracion y usuario=
+
+crear usuarios.
+adduser cuenta.
+ asignar contraseña
+passwd cuenta
+
+configurarcion ip ifconfig
+
+puertos
+ifdown puerto; apagar puerto
+
+mndR PING
+ping host
+
+ifup puerto encender puerto
+
+cambiar ip
+ifconfig puerto ip
+
+cambiar submascara de red
+ ifconfig puerto netmask mask
