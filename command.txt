@@ -35,3 +35,16 @@ ifconfig puerto ip
 
 cambiar submascara de red
  ifconfig puerto netmask mask
+
+descargar paquetes 
+wget
+
+installar paquetes 
+yum
+
+eliminar carpetas archivos.
+ rm -r
+
+eliminar usuario, cuenta, perfil
+
+userdel cuenta
